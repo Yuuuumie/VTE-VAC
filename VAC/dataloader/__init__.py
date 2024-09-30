@@ -1,0 +1,3 @@
+from dataloader.EGD_features_VAC import EGDFeature_train
+from dataloader.EGD_features_VAC import EGDFeature_batchtest
+from dataloader.EGD_features_VAC import EGDFeature_onlinetest

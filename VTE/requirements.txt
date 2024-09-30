@@ -1,0 +1,16 @@
+cxxfilt==0.3.0
+docutils
+einops==0.3.2
+matplotlib
+numpy==1.21.2
+opencv_python==4.5.4.60
+Pillow==9.1.1
+PyYAML==6.0
+setuptools==58.0.4
+Sphinx==5.0.2
+sphinx_rtd_theme==1.0.0
+tensorflow==2.9.1
+timm==0.4.12
+tqdm==4.62.3
+ttach==0.0.3
+yacs==0.1.8

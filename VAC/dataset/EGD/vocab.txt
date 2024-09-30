@@ -1,0 +1,56 @@
+Larynx in Narrow Band Image
+Right piriform recess in Narrow Band Image
+Left piriform recess in Narrow Band Image
+Esophagus in Narrow Band Image with width twenty centimeters
+Esophagus in Narrow Band Image with width twenty-five centimeters
+Esophagus in Narrow Band Image with width thirty centimeters
+Esophagus in Narrow Band Image with width thirty-five centimeters
+EG junction in Narrow Band Image
+Upper body posterior wall while first entery
+Middle body posterior wall while first entery
+Lower body posterior wall while first entery
+Antrum whole
+Antrum lesser curvature
+Antrum anterior wall
+Antrum greater curvature
+Antrum posterior wall
+Pylorus
+Duodenal bulb
+Descending part
+Angle centre
+Angle anterior wall
+Angle posterior wall
+Fundus greater curvature
+Fundus anterior wall
+Fundus lesser curvature
+Fundus posterior wall
+Cardia
+Upper body anterior wall while second entrey
+Upper body lesser curvature while second entrey
+Upper body posterior wall while second entrey
+Middle body anterior wall while second entrey
+Middle body lesser curvature while second entrey
+Middle body posterior wall while second entrey
+Lower body anterior wall while second entrey
+Lower body lesser curvature while second entrey
+Lower body posterior wall while second entrey
+Lower body anterior wall while second retreat
+Lower body lesser curvature while second retreat
+Lower body posterior wall while second retreat
+lower body greater curvature while second retreat
+Middle body anterior wall while second retreat
+Middle body lesser curvature while second retreat
+Middle body posterior wall while second retreat
+Middle body greater curvature while second retreat
+Upper body anterior wall while second retreat
+Upper body lesser curvature while second retreat
+Upper body posterior wall while second retreat
+Upper body greater curvature while second retreat
+EG junction in Wight Light Image
+Esophagus in Wight Light Image with width thirty-five centimeters
+Esophagus in Wight Light Image with width thirty centimeters
+Esophagus in Wight Light Image with width twenty-five centimeters
+Esophagus in Wight Light Image with width twenty centimeters
+Esophagus in Wight Light Image with width fifteen centimeters
+background
+current frame site
