@@ -1,7 +1,7 @@
 # VTE-VAC
 Test Models and Data for VTE+VAC.
 
-VAC checkpoints:
+VAC checkpoint:
 Link: https://pan.baidu.com/s/1wjKf0H-Zeft_ces94uOMHw?pwd=6y7i
 
 VTE checkpoint:
